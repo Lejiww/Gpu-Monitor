@@ -143,19 +143,6 @@ sudo firewall-cmd --reload
    java -jar gpu-monitor.jar
    ```
 
-### Project Structure
-```
-gpu-system-monitor/
-├── src/
-│   ├── GPUViewerServer.java
-│   └── ClientHandler.java
-├── docs/
-│   └── screenshots/
-├── build/
-├── README.md
-└── LICENSE
-```
-
 ## 📊 Monitored Metrics
 
 ### GPU Metrics (via nvidia-smi)
