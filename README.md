@@ -17,7 +17,7 @@ A lightweight web-based monitoring solution for GPU/system stats with integrated
 ## 🖼️ Screenshot
 
 ### Main Dashboard
-![Main Dashboard](https://ibb.co/KxcphdK8)
+![Main Dashboard](https://i.postimg.cc/52pKGpSz/Screenshot-GPU-Monitor.png)
 
 
 ## 🚀 Quick Start
